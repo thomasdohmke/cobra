@@ -15,7 +15,3 @@ On touch devices use swipe gestures to change the direction of the snake.
 
 MIT
 
-## Contributing
-
-This was a quick fun demo I did so not really taking PR's, however if you decide to fork this game and do your own version - or if you create other cool things with the help of GitHub Copilot then please do [let me know](https://twitter.com/ashtom)!
-
